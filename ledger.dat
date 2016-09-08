@@ -14,8 +14,16 @@
     Grant:GitGuild:Infrastructure -$1
     XP:Issued                     -1 XP
     XP:Earned:isysd               1 XP
-    XGG:Issued                    -1 XP
-    XGG:Earned:isysd              1 XP
+    XGG:Issued                    -1 XGG
+    XGG:Earned:isysd              1 XGG
 
 P 2016/09/07 19:00:01 XGG $1
+
+2016/09/08 03:00:00 * Draft Paper w Example vote
+    XP:Issued                     -10000 XP
+    XP:Earned:isysd               10000 XP
+    XGG:Issued                    -10000 XGG
+    XGG:Earned:isysd              10000 XGG
+
+P 2016/09/07 19:00:01 $ 10001 XGG
 
