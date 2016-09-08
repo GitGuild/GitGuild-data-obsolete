@@ -1,0 +1,21 @@
+; -*- ledger -*-
+
+; XP (Experience Points) are for reputation and voting. Cannot be transferred.
+; Though they have no monetary value, XP are earned 1:1 with XGG. The exception
+; is 1 XP which is issued to the founding members.
+
+; XGG Guild Coins are claims against the Assets:Treasury.
+; Any member may unilaterally transfer their XGG to another by submitting a new
+; entry to this ledger. XGG may only be redeemed with fees and vote approval,
+; as specified by the charter.
+
+2016/09/07 19:00:00 * Founder Block
+    Assets:Treasury               $1
+    Grant:GitGuild:Infrastructure -$1
+    XP:Issued                     -1 XP
+    XP:Earned:isysd               1 XP
+    XGG:Issued                    -1 XP
+    XGG:Earned:isysd              1 XP
+
+P 2016/09/07 19:00:01 XGG $1
+
