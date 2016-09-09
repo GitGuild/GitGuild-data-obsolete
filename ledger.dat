@@ -33,5 +33,20 @@ P 2016/09/07 19:00:01 $ 10001 XGG
     Assets:Treasury               1003.92 DASH @ $11.40
     Grant:GitGuild:Infrastructure -1003.92 DASH @ $11.40
 
-P 2016/09/08 14:00:01 XGG 1.144454355
+P 2016/09/08 14:00:01 XGG $1.144454355
+
+2016/09/09 14:00:00 * Legacy TGG Transition Contract
+    XP:Issued                     -500 XP
+    XP:Earned:isysd               500 XP
+    XGG:Issued                    -500 XGG
+    XGG:Earned:isysd              500 XGG
+
+2016/09/09 14:00:01 * IP and Licenses clause
+    XP:Issued                     -50 XP
+    XP:Earned:isysd               50 XP
+    XGG:Issued                    -50 XGG
+    XGG:Earned:isysd              50 XGG
+
+P 2016/09/09 14:00:02 XGG $1.084826083
+
 
