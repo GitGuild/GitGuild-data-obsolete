@@ -1,8 +1,12 @@
 # GitGuild Charter
 
+__0.0.1__
+
 This charter is a private contract to cooperate on development of the project, which is hosted in the following git repository(ies).
 
  + https://github.com/isysd/gitguild_whitepaper
+ + https://github.com/isysd/gitguild_website
+ + https://github.com/isysd/gitguild
 
 ### Membership
 
@@ -22,19 +26,18 @@ Voting "Yes" is done by merging and gpg signing a vote proposal. Voting "No" is 
 
 | Vote Type | Approval Threshold | Min. Vote Time | Max. Vote Time |
 |-----------|--------------------|----------------|----------------|
-| Overwrite Commit | 90%         | 1 day          | 6 months       |
-| Charter Amendment | 90%        | 1 day          | 6 months       |
-| Treasury Sign Policy | 90%        | 1 day          | 6 months       |
+| Amend Charter | 90%        | 1 day          | 6 months       |
+| Change Treasury Sign Policy | 90%        | 1 day          | 6 months       |
 | Accept member | 66%        | 1 minute          | 1 month       |
 | Accept PR | 51%        | 1 minute          | 3 months       |
-| Accept Agreement | 51%        | 1 minute          | 3 months       |
+| Accept Contract | 51%        | 1 minute          | 3 months       |
 | XGG Redemption | 51%        | 3 months          | 12 months       |
 
 ### Economics
 
 XP are for reputation and voting. They cannot be transferred. Though they have no monetary value, XP are earned 1:1 with XGG. The exception is 1 XP which is issued to the founding member(s).
 
-XGG Guild Coins are claims against the Treasury. Any member may unilaterally transfer their XGG to another by submitting a signed entry to this ledger. XGG may only be redeemed with fees and vote approval, as specified by the charter.
+XGG Guild Coins are claims against the Treasury. Any member may unilaterally transfer their XGG to another by submitting a signed entry to this ledger. XGG may only be redeemed with fees and vote approval, as specified by the charter. No promise of value or redemption is implied by XGG notations, only the right to propose redemption for other members to vote on.
 
 ##### Treasury
 
@@ -49,3 +52,11 @@ At founding, this guild received only $1 from the legacy TGG Infrastructure fund
 The legacy TGG Infrastructure fund transferred the Dash masternode at [Xh4GuTaGPZ9Rtjqm2ME1dY2g8toGhvWJdH](https://explorer.dash.org/address/Xh4GuTaGPZ9Rtjqm2ME1dY2g8toGhvWJdH) along with 1003.92 DASH. This sets a new XGG price of $1.14445 as of Sept. 8 2016.
 
 This guild has no direct revenue streams. We suggest that any git guild support this, the intellectual parent guild with a portion of their revenue. Nothing big. One percent (1%) converted to [Dash](https://dash.org) and sent to the address above would be generous.
+
+##### Contracts and Signatures
+
+By signing a commit with their GPG key, a member agrees to the charter, contracts, ledger, and member list contained. This is considered a binding vote. Any commits that violate the terms of this agreement are considered invalid, and not a permanent part of the master branch.
+
+##### Intellectual Property and Licenses
+
+All intellectual property (IP) generated under the terms of this agreement will be the property of the Git Guild foundation, unless stated otherwise in a valid, member-voted contract. For all documents, like this one, a [CC by 4.0](https://creativecommons.org/licenses/by/4.0) license must be used. For all software, the [MIT license](http://opensource.org/licenses/MIT) should be used.
