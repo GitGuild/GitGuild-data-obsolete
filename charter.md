@@ -1,14 +1,14 @@
-# GitGuild Charter
+# Git Guild Charter
 
-__0.0.2__
+__0.0.3__
 
-This charter is a private contract to cooperate on development of the project, which is hosted in the following git repository(ies).
+This charter is a private contract to cooperate on development of the project(s), which is hosted in the following git repository(ies).
 
  + https://github.com/gitguild/gitguild_whitepaper
  + https://github.com/gitguild/gitguild_website
  + https://github.com/gitguild/gitguild
 
-By linking this charter from within the above project repositories, the contributors agree to abide by this charter. Each member must keep their respective branch up to date with the consensus master branch to participate in the projects.
+By linking this charter from within the above project repositories, the contributors agree to abide by this charter. Each member must keep their respective branch up to date with the consensus master branch to participate in the project(s).
 
 ### Membership
 
