@@ -54,10 +54,6 @@ P 2016/09/09 14:00:02 XGG $1.084826083
 
 2016/09/10 12:00:00 * DashMN Guild Founding
     ; Transfer control of masternode on Xh4GuTaGPZ9Rtjqm2ME1dY2g8toGhvWJdH
-    XP:Issued                     -250 XP
-    XP:Earned:isysd               250 XP
-    XGG:Issued                    -250 XGG
-    XGG:Earned:isysd              250 XGG
     Assets:Treasury               -1003.92 DASH
     FX:DASH:DashMNGuild                 1003.92 DASH
     Assets:Treasury               1003.92 GDASH
@@ -65,4 +61,5 @@ P 2016/09/09 14:00:02 XGG $1.084826083
 
 P 2016/09/10 12:00:01 GDASH 1 DASH
 P 2016/09/10 12:00:01 DASH $11.30
+P 2016/09/10 12:00:01 XGG $1.065158201
 
