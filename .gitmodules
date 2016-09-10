@@ -1,0 +1,3 @@
+[submodule "sidechains/TAPPGuild"]
+	path = sidechains/TAPPGuild
+	url = https://github.com/GitGuild/TAPPGuild.git

@@ -1,6 +1,6 @@
 # Transition Agreement
 
-An agreement to transition from Legacy Git Guild coin aka TGG to this guild's new XGG Git Guild coin. By signing this document with your gpg key, you agree to the terms of this agreement.  
+An agreement to transition from Legacy Git Guild coin aka TGG to this guild's new XGG Git Guild coin. By signing this document with your gpg key, you agree to the terms of this agreement.
   
  + Member isysd is appointed interrim Treasury signer. New, and/or additional signers should be voted in as soon as procedures are in place.
  + Any claims from the old Git Guild Bounty system in $ or TGG will be arbitrated by this guild, as normal PRs. That is to say 51% of XP votes will decide any legacy commitment into XGG.  
