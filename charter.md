@@ -43,6 +43,8 @@ XP are for reputation and voting. They cannot be transferred, and have no moneta
 
 New assets can be imported by linking another Git Guild as a submodule. This must be defined in a contract, and no specific terms are required as of yet.
 
+The import process is done by enacting an FX trade across the two guild ledgers, establishing a price for the new asset.
+
 ### Contracts and Signatures
 
 By signing a commit with their GPG key, a member agrees to the charter, contracts, ledger, and member list contained. This is considered a binding vote. Any commits that violate the terms of this agreement are considered invalid, and not a permanent part of the master branch.

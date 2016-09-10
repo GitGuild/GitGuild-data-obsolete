@@ -62,5 +62,7 @@ P 2016/09/09 17:00:02 XGG $1.074640879
 
 2016/09/09 22:00:01 * TAPP Guild Founding
     Assets:Treasury               -$1
-    Expenses:Grants:TappGuild     $1
+    FX:$:TappGuild                $1
+    Assets:Treasury               1 GTAP
+    FX:GTAP:TappGuild             -1 GTAP
 
