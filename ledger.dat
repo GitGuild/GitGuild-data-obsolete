@@ -63,3 +63,31 @@ P 2016/09/10 12:00:01 GDASH 1 DASH
 P 2016/09/10 12:00:01 DASH $11.30
 P 2016/09/10 12:00:01 XGG $1.065158201
 
+2016/09/10 12:00:03 * lamassu-machine founded
+    FX:GCTM:CTMGuild              -0.001 GCTM
+    Assets:Treasury               0.001 GCTM
+
+2016/09/10 12:00:03 * lamassu-server founded
+    FX:GCTM:CTMGuild              -0.0015 GCTM
+    Assets:Treasury               0.0015 GCTM
+
+2016/09/10 12:00:03 * desw test deploy
+    FX:GWLT:WalletGuild           -0.0005 GWLT
+    Assets:Treasury               0.0005 GWLT
+
+2016/09/10 12:00:03 * bitjws-sockjs-server founded
+    FX:GTAP:TAPPGuild             0.0025 GTAP
+    Assets:Treasury               0.0025 GTAP
+
+2016/09/10 12:00:03 * tapp-config founded
+    FX:GTAP:TAPPGuild             0.00275 GTAP
+    Assets:Treasury               0.00275 GTAP
+
+2016/09/10 12:00:03 * tappmq founded
+    FX:GTAP:TAPPGuild             0.00505 GTAP
+    Assets:Treasury               0.00505 GTAP
+
+2016/09/10 12:00:03 * tapp-deployment founded
+    FX:GTAP:TAPPGuild             0.001 GTAP
+    Assets:Treasury               0.001 GTAP
+
