@@ -7,8 +7,8 @@
     m:isysd:Assets                1 XGG
     v:Member:isysd:yes            1 XP
     v:Member:isysd:isysd          -1 XP
-    v:Ambassador:yes                1 XP
-    v:Ambassador:isysd              -1 XP
+    v:Ambassador:isysd:yes                1 XP
+    v:Ambassador:isysd:isysd              -1 XP
     v:Agreement:XGG:yes             1 XP
     v:Agreement:XGG:isysd           -1 XP
     v:Agreement:TGG_Transition:yes    1 XP
