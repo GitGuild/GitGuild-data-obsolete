@@ -1,0 +1,15 @@
+[submodule "sidechains/TAPPGuild"]
+	path = sidechains/TAPPGuild
+	url = https://github.com/GitGuild/TAPPGuild.git
+[submodule "sidechains/DashMNGuild"]
+	path = sidechains/DashMNGuild
+	url = https://github.com/GitGuild/DashMNGuild.git
+[submodule "sidechains/TradeGuild"]
+	path = sidechains/TradeGuild
+	url = https://github.com/GitGuild/TradeGuild.git
+[submodule "sidechains/WalletGuild"]
+	path = sidechains/WalletGuild
+	url = https://github.com/GitGuild/WalletGuild.git
+[submodule "sidechains/CTMGuild"]
+	path = sidechains/CTMGuild
+	url = https://github.com/GitGuild/CTMGuild.git

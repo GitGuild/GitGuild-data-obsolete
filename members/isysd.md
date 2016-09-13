@@ -1,0 +1,72 @@
+# isysd
+
+The first member, and official Ambassador of the Git Guild.
+
+##### Profile
+
+| Field | Value |
+|-------|-------|
+| Twitter | @iravagecoins |
+| LinkedIn | https://pa.linkedin.com/in/ira-miller-5352668 | 
+
+### GPG
+
+##### Public Key
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: SKS 1.1.5
+Comment: Hostname: pgp.mit.edu
+
+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
+8IsDOQ5eZkXaEykwAUwNgA==
+=YCLJ
+-----END PGP PUBLIC KEY BLOCK-----
+
+### Git 
+
+##### Servers
+
+| Host | URL        |
+|------|------------|
+| Github | https://github.com |
+| Bitbucket | https://bitbucket.org |
