@@ -1,6 +1,6 @@
 # Git Guild Charter
 
-__0.0.4__
+__0.1.0__
 
 This charter is a private contract to cooperate on development of the project(s), which is hosted in the following git repository(ies).
 
@@ -10,40 +10,30 @@ This charter is a private contract to cooperate on development of the project(s)
 
 By linking this charter from within the above project repositories, the contributors agree to abide by this charter. Each member must keep their respective branch up to date with the consensus master branch to participate in the project(s).
 
-### Membership
+### Trusted Parties
 
-Anyone can apply to collaborate on the project by creating a branch of this data repository, adding their gpg key to the members.csv file, and submitting the result as a PR.
+Until the Git Guild software is more advanced, a few points of centralization are required for a Guild to operate effectively. These are: git server(s), pgp keyserver(s), and optionally some legal contract or jurisdiction.
 
-The existing members then vote, and, if the approval threshold (66%) is reached, the PR is merged, accepting you as a member into the guild. Until your key is approved and merged into the keyring, you have no standing or rights to earn XP for contributions.
-
-##### Experience Points (XP)
-
-Experience Points (XP) are earned when a PR contribution is merged into the project. The amount and allocation of XP for each PR must receive the minimum approval threshold before merging.
-
-### Voting
-
-Voting "Yes" is done by merging and gpg signing a vote proposal. Voting "No" is done by merging and gpg signing a corresponding dissent branch. Votes are weighted by XP earned by the signer up to that point in the chain.
+| Trust Type | Name | Address |
+|------------|------|---------|
+| Git server | github | https://github.com |
+| PGP server | MIT | https://pgp.mit.edu |
 
 ##### Vote Table
 
-| Vote Type | Approval Threshold | Min. Vote Time | Max. Vote Time |
-|-----------|--------------------|----------------|----------------|
-| Amend Charter | 90%        | 1 day          | 6 months       |
-| Change Treasury Sign Policy | 90%        | 1 day          | 6 months       |
-| Accept member | 66%        | 1 minute          | 1 month       |
-| Accept Contract | 66%        | 1 minute          | 3 months       |
-| Accept PR | 51%        | 1 minute          | 3 months       |
-| XGG Redemption | 51%        | 1 day          | 101 days       |
+The following are minimum XP that each type of vote must receive to be considered valid by this guild.
 
-### Economics
-
-XP are for reputation and voting. They cannot be transferred, and have no monetary value. Any other assets tracked in the ledger must be defined in a contract.
+| Vote Type     | Approval Threshold | Description |
+| Fork          | 90%               | Any break of the git chain, i.e. a rebase     |
+| Charter       | 90%               | Any change to the charter.md file.            |
+| Sidechain     | 75%               | Add, remove or approve a charter ammendment for a sidechain. |
+| Agreement     | 66%               | Accept or amend a guild-wide agreement.                |
+| Ambassador    | 66%                | Accept a member as Ambassador of the guild.   |
+| Member        | 51%               | Accept or reject a member. Also change a member's XP. |
 
 ##### Sidechains
 
-New assets can be imported by linking another Git Guild as a submodule. This must be defined in a contract, and no specific terms are required as of yet.
-
-The import process is done by enacting an FX trade across the two guild ledgers, establishing a price for the new asset.
+This guild maintains a number of sidechains, and imports assets from those chains. Members of this guild do not need to join the sidechain guilds, but do agree to respect their ledgers and transactions through the Guild Exchange system.
 
 ### Contracts and Signatures
 

@@ -2,33 +2,45 @@
 
 2016/09/07 19:00:00 * Founder Block
     Experience                    -1 XP
-    isysd:Assets                  1 XP
     Liabilities                   -1 XGG
-    isysd:Assets                  1 XGG
+    m:isysd:Experience            1 XP
+    m:isysd:Assets                1 XGG
+    v:Member:isysd:yes            1 XP
+    v:Member:isysd:isysd          -1 XP
+    v:Ambassador:yes                1 XP
+    v:Ambassador:isysd              -1 XP
+    v:Agreement:XGG:yes             1 XP
+    v:Agreement:XGG:isysd           -1 XP
+    v:Agreement:TGG_Transition:yes    1 XP
+    v:Agreement:TGG_Transition:isysd   -1 XP
 
 2016/09/08 03:00:00 * Draft Paper w Example vote
     Experience                    -10000 XP
-    isysd:Assets                  10000 XP
     Liabilities                   -10000 XGG
-    isysd:Assets                  10000 XGG
+    m:isysd:Experience              10000 XP
+    m:isysd:Assets                  10000 XGG
+    v:Member:isysd:yes            10000 XP
+    v:Member:isysd:isysd          -10000 XP
+    v:Ambassador:isysd:yes        10000 XP
+    v:Ambassador:isysd:isysd      -10000 XP
+    v:Agreement:XGG:yes                     10000 XP
+    v:Agreement:XGG:isysd                   -10000 XP
+    v:Agreement:TGG_Transition:yes          10000 XP
+    v:Agreement:TGG_Transition:isysd        -10000 XP
 
-2016/09/09 14:00:00 * Legacy TGG Transition Contract
-    Experience                    -500 XP
-    isysd:Assets                  500 XP
-    Liabilities                   -500 XGG
-    isysd:Assets                   500 XGG
-
-2016/09/09 14:00:01 * IP and Licenses clause
-    Experience                    -50 XP
-    isysd:Assets                   50 XP
-    Liabilities                   -50 XGG
-    isysd:Assets                   50 XGG
-
-2016/09/09 17:00:01 * Separate tutorials
-    Experience                    -100 XP
-    isysd:Assets                   100 XP
-    Liabilities                   -100 XGG
-    isysd:Assets                   100 XGG
+2016/09/08 03:00:00 * Second Draft Paper w Accounting, Sidechains, Directories
+    Experience                    -5000 XP
+    Liabilities                   -5000 XGG
+    m:isysd:Experience              5000 XP
+    m:isysd:Assets                  5000 XGG
+    v:Member:isysd:yes            5000 XP
+    v:Member:isysd:isysd          -5000 XP
+    v:Agreement:XGG:yes                     5000 XP
+    v:Agreement:XGG:isysd                   -5000 XP
+    v:Ambassador:isysd:yes        5000 XP
+    v:Ambassador:isysd:isysd      -5000 XP
+    v:Agreement:TGG_Transition:yes          5000 XP
+    v:Agreement:TGG_Transition:isysd        -5000 XP
 
 2016/09/10 12:00:00 * Funding froom LegacyGG
     Assets                        1003.92 GDASH
@@ -61,4 +73,8 @@
 2016/09/10 12:00:03 * tapp-deployment founded
     GX:TAPPGuild                  -0.001 GTAP
     Assets                        0.001 GTAP
+
+2016/09/07 19:00:00 * Member application
+    v:Member:troll4u:yes            0 XP
+    v:Member:troll4u:troll4u          -0 XP
 
